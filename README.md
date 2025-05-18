@@ -32,4 +32,14 @@ A fully responsive and feature-rich task manager web application built using HTM
 ![Task Manager UI](assets/screenshot.png)
 
 ## 📂 Folder Structure
+```
+task-manager/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── screenshot.png
+```
+
 
